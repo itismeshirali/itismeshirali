@@ -1,9 +1,6 @@
-# shirali nigam
+# hi! i'm shirali.
 
-[LinkedIn](https://www.linkedin.com/in/shiralinigam)  
-[circuitbreakerlabs.ai](https://circuitbreakerlabs.ai)
-
-## missions
+### missions
 
 - neuro research at [Howard Hughes Medical Institute Janelia](https://www.janelia.org) & [NIH NINDS](https://www.ninds.nih.gov)
 - clinical shadowing & research at [Johns Hopkins](https://www.hopkinsmedicine.org)
@@ -13,12 +10,12 @@
 - health policy & appropriations at [McAllister & Quinn](https://jm-aq.com)
 - vc intern stuff at [Redbud Brands](https://www.redbudbrands.com) & [Raisewell Ventures](https://raisewell.vc)
 
-## side quests
+### side quests
 
 - [AllergySmartz](https://www.foodallergylowdown.com)
 - [Heroes of COVID](https://heroesofcovidinitiative.com)
 
-## foundations
+### foundations
 
 - mba @ [Wharton](https://www.wharton.upenn.edu)
 - biomedical engineering @ [The George Washington University](https://bme.engineering.gwu.edu)
